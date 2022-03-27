@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/static/js/main.3e1ad1ef.chunk.js",
+    "main.js.map": "/static/js/main.3e1ad1ef.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.403b45e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.403b45e8.js.map",
+    "static/css/2.451bf2e4.chunk.css": "/static/css/2.451bf2e4.chunk.css",
+    "static/js/2.b20ed1f8.chunk.js": "/static/js/2.b20ed1f8.chunk.js",
+    "static/js/2.b20ed1f8.chunk.js.map": "/static/js/2.b20ed1f8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.34ac6f227c34bfdf23b28f6b60658f7a.js": "/precache-manifest.34ac6f227c34bfdf23b28f6b60658f7a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.451bf2e4.chunk.css.map": "/static/css/2.451bf2e4.chunk.css.map",
+    "static/js/2.b20ed1f8.chunk.js.LICENSE.txt": "/static/js/2.b20ed1f8.chunk.js.LICENSE.txt",
+    "static/media/fondo2.jpg": "/static/media/fondo2.5e2b4d5f.jpg",
+    "static/media/fondo4.png": "/static/media/fondo4.ee75aad1.png",
+    "static/media/food8.jpg": "/static/media/food8.7dd18ef6.jpg",
+    "static/media/food9.jpg": "/static/media/food9.82ef054d.jpg",
+    "static/media/image7.jpg": "/static/media/image7.a045416d.jpg",
+    "static/media/image8.jpg": "/static/media/image8.be27e86c.jpg",
+    "static/media/imagen2.jpg": "/static/media/imagen2.3bf4d61d.jpg",
+    "static/media/pizza1.jpg": "/static/media/pizza1.b1265c3e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.403b45e8.js",
+    "static/css/2.451bf2e4.chunk.css",
+    "static/js/2.b20ed1f8.chunk.js",
+    "static/js/main.3e1ad1ef.chunk.js"
+  ]
+}
